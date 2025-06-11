@@ -14,6 +14,9 @@ logs/
 .spark_history/
 
 
+data/Source_Data/
+
+
 # Operating System specific
 .DS_Store
 Thumbs.db
