@@ -11,6 +11,8 @@ python scripts\db2_data_upload.py
 
 python scripts\most_sold_products_analysis.py
 
+python scripts\order_summary.py
+
 deactivate
 
 Write-Host "Pipeline execution complete."

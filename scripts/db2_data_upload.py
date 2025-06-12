@@ -103,8 +103,8 @@ if __name__ == "__main__":
         files_to_upload = [
             {"csv": "cleaned_distribution_centers.csv", "table": "DISTRIBUTION_CENTERS"},
             {"csv": "cleaned_products.csv", "table": "PRODUCTS"},
-            {"csv": "cleaned_orders.csv", "table": "ORDERS"},
-            {"csv": "cleaned_users.csv", "table": "USERS"},
+           #{"csv": "cleaned_orders.csv", "table": "ORDERS"},
+           #{"csv": "cleaned_users.csv", "table": "USERS"},
             {"csv": "cleaned_inventory_items.csv", "table": "INVENTORY_ITEMS", "limit_rows": 500000},
             {"csv": "cleaned_order_items.csv", "table": "ORDER_ITEMS", "limit_rows": 100000},
 
